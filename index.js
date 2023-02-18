@@ -14,8 +14,8 @@ init()
 .then((response)=>
 {questionInfo.push(response)
 
-// fs.writeFile(`${response.text}.svg`, generate function)
-// still need to finsih this function!)
+fs.writeFile(`${response.text}.svg`, )
+
 })
 
 
