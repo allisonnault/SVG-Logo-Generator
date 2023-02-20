@@ -2,6 +2,8 @@
 Challenge 10
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[video demo](https://drive.google.com/file/d/1d2RZmEIECMb5lB6ezOWGX3jUI2nkkO3k/view)
     
 ## Description
     
@@ -15,6 +17,7 @@ To create a command-line application that takes in user input to generate a logo
 - [Contributing](#how-to-contribute)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Sample Logo](#sample-logo)
     
 <a name="installation"></a>
 ## Installation
@@ -62,3 +65,9 @@ npm run test
 For questions check out my GitHub profile [allisonnault](https://www.github.com/allisonnault)
 
 Or you can email me at [allisonrnault@gmail.com](mailto:allisonrnault@gmail.com)
+
+<a name="sample-logo"></a>
+## Sample Logo
+
+![sample file](./arn.svg)
+
