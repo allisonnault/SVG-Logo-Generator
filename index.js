@@ -10,9 +10,9 @@ inquirer
     .prompt(questions)
     .then((response) => {
    
-        fs.writeFile(`${response.text}.svg`, genSVG(response), (err) => {
+        fs.writeFile(`logo.svg`, genSVG(response), (err) => {
             if (err) throw err;
-            console.log("Your new SVG file was created!");
+            console.log("Generated logo.svg");
         })
 
     })
